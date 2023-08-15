@@ -1,0 +1,6 @@
+applications:
+  - chartName: your-helm-chart-name-1
+    version: your-app-version-1
+  - chartName: your-helm-chart-name-2
+    version: your-app-version-2
+# Add more applications as needed
